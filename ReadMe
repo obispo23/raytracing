@@ -1,0 +1,5 @@
+A large majority of the source is done by by Don Cross  -  http://cosinekitty.com/raytrace
+Uses c++ to generate png files of raytraced images. 
+Light is added near a surface and various optical properties are observed. 
+
+The modifaction will allow for raytracing to be used as electron tracker, as it is scattered, reflected, and transmitted through a structure.
